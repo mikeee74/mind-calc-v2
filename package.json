@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mongodb": "^6.11.0"
+  },
+  "name": "mind-calc-v2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "view:history": "node app.js --history",
+    "view:stats": "node app.js --stats"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
